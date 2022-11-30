@@ -1,1 +1,11 @@
-hvjhvjhv
+In java has jdk and jvm. java is platform independence, open source, multithreading.
+whenever the progemmer runs the program jvm will conert byte code. using byte code we can run any platform, so java is called platfom independence.
+ 
+java runs in oops concept, in oops concept have polymorphism, inheritance, encopsulation, abstraction. these concept are main in java
+
+
+
+
+ 
+ 
+ 
