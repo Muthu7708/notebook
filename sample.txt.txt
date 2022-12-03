@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In java has jdk and jvm. java is platform independence, open source, multithreading.
 whenever the progemmer runs the program jvm will conert byte code. using byte code we can run any platform, so java is called platfom independence.
  
@@ -9,3 +10,10 @@ java runs in oops concept, in oops concept have polymorphism, inheritance, encop
  
  
  
+=======
+hvjhvjhv
+
+<tag>
+<span>
+<li> list 1 <li>
+>>>>>>> 183065fdc393f6ffb350737c57df788573dd6320
